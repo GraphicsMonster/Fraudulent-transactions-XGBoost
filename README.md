@@ -4,6 +4,8 @@
 
 This Python notebook demonstrates a fraudulent detection model developed for a dataset containing credit card transaction details. Similar to a previous implementation using neural networks, this model uses XGBoost, a popular gradient boosting library. The dataset features were anonymized due to regulatory requirements. This model achieved an accuracy of 99.8% on the unseen test set, which is an improvement on the neural nets implementation that achieved 97.38% accuracy.
 
+- **Neural nets implementation:** [Fraudulent Credit Card Transaction Detection using PyTorch](https://github.com/GraphicsMonster/fraud-detection-with-neural-nets--kaggle-dataset)
+
 ## Model Architecture
 
 The XGBoost model is known for its ensemble learning capabilities and is particularly effective in tabular data scenarios. The model is configured with default hyperparameters, and no extensive tuning is performed due to the impressive out-of-the-box performance.
