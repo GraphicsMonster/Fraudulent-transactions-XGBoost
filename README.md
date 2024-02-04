@@ -33,6 +33,7 @@ pip install torch pandas scikit-learn
 ## Result
 
 - **Test Set Accuracy:** 99.8%
+- Can't test the model on a validation set since the data is anonymized and hence it's difficult to synthesize a validation set.
 
 ## Acknowledgments
 
